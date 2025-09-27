@@ -18,7 +18,7 @@ This is a personal portfolio website built using Vite+React, Tailwind CSS, and F
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/sathishk-dev/illustration-portfolio.git
+   git clone https://ali-hassnain-freshy/illustration-portfolio.git
    ```
 2. Navigate to the project directory:
    ```sh
@@ -35,7 +35,7 @@ This is a personal portfolio website built using Vite+React, Tailwind CSS, and F
    The app will be available at `http://localhost:3000/`.
 
 ## Demo
-Check out the live demo of the portfolio website: [Live Demo](https://sk-illustration-portfolio.netlify.app/)
+Check out the live demo of the portfolio website: [Live Demo](alimaherstudio-portoflio.netlify.app)
 
 ## Deployment
 To deploy the portfolio website, you can use platforms like:
@@ -51,8 +51,8 @@ If you like this project, please star it and share it with your friends!
 
 ## Contact
 If you have any questions or suggestions, feel free to reach out via:
-- **Email:** sathish31102004@gmail.com
-- **LinkedIn:** [@sathishk-dev](https://linkedin.com/in/sathishk-dev)
+- **Email:** maherhassnain70@gmail.com
+- **LinkedIn:** [@(https://www.linkedin.com/in/hassnain-maher-3a13b436b/)
 
 ---
-Made with ❤️ by Sathish Kumar.
+Made with ❤️ by Ali Maher.
