@@ -26,15 +26,15 @@ export default function About() {
         </h2>
 
         <p className="text-[#71717A] text-sm/6 lg:text-base mt-5 lg:mt-10">
-          I'm a passionate full-stack developer specializing in **React.js & Node.js**. I thrive on blending technical expertise with sleek UI/UX design to build high-performing, user-friendly applications.
+          I help businesses and individuals transform raw data into clear, actionable insights by: Cleaning and preparing datasets for analysis 
         </p>
 
         <p className="text-[#71717A] text-sm/6 lg:text-base mt-3 lg:mt-5">
-          My web development journey started in **2015**, and since then, I've continuously evolved, taking on new challenges and keeping up with the latest technologies. Today, I build **cutting-edge web applications** using **Next.js, TypeScript, NestJS, TailwindCSS, Supabase, and more**.
+          My Data Science journey started in **2022**, and since then, I've continuously evolved, taking on new challenges and keeping up with the latest technologies. Today, I build **cutting-edge web applications** using **Python Pandas, Numpy, Matplotlib, Seaborn, Plotly, Excel ,SQL and more**.
         </p>
 
         <p className="text-[#71717A] text-sm/6 lg:text-base mt-3 lg:mt-5">
-          Beyond coding, I enjoy sharing insights on **Twitter**, engaging with **Indie Hackers**, and following the journey of **early-stage startups**. Feel free to follow me on **Twitter** or check out my projects on **GitHub**.
+          Beyond coding, I enjoy sharing insights on **Github**, engaging with **Linked IN**, and following the journey of **early-stage startups**. Feel free to follow me on **Linked In** or check out my projects on **GitHub**.
         </p>
       </motion.div>
     </div>

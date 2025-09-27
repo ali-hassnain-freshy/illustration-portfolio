@@ -33,12 +33,13 @@ export default function Home() {
             <motion.h2 variants={{ hidden: { opacity: 0, y: 10 }, visible: { opacity: 1, y: 0 } }}>
               Hello, <TypeAnimation
                 sequence={[
-                  'I am Sathish Kumar',
+                  'I am Ali Maher',
                   1000,
-                  // 'I am a Web Developer',
-                  // 1000,
-                  // 'I am a UI/UX Designer',
-                  // 1000,
+                   'I am a Data Analyst',
+                   1000,
+                   'I am a Software Engineer',
+                   1000,
+                    'I am a Data Scientist',
                 ]}
                 speed={10}
                 style={{ fontWeight:600 }}
@@ -46,16 +47,16 @@ export default function Home() {
               />
             </motion.h2>
             <motion.h2 variants={{ hidden: { opacity: 0, y: 10 }, visible: { opacity: 1, y: 0 } }}>
-              <span className="font-extrabold">Fullstack</span>{" "}
+              <span className="font-extrabold">Data</span>{" "}
               <span
                 className="text-white font-extrabold"
                 style={{ WebkitTextStroke: "1px black" }}
               >
-                Developer
+                Scientist
               </span>
             </motion.h2>
             <motion.h2 variants={{ hidden: { opacity: 0, y: 10 }, visible: { opacity: 1, y: 0 } }}>
-              Based In <span className="font-extrabold">India.</span>
+              Based In <span className="font-extrabold">Pakistan.</span>
             </motion.h2>
           </motion.div>
 
@@ -64,8 +65,7 @@ export default function Home() {
             initial={{ opacity: 0, y: 10 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.5, duration: 1 }}
-          >
-            Passionate about technology, I specialize in Web Development and Web Designing. I’m focused on building innovative solutions and continuously expanding my skills. My goal is to grow as a developer and contribute to impactful projects in the tech industry.
+          >I help businesses and individuals transform raw data into clear, actionable insights by: 🔹 Cleaning and preparing datasets for analysis 🔹 Exploring and visualizing data to uncover trends and patterns 🔹 Automating workflows for efficiency and accuracy 🔹 Delivering dashboards and reports for decision-making I’m passionate about turning complex data into simple, meaningful stories that drive results.
           </motion.p>
 
           <motion.div
@@ -77,7 +77,7 @@ export default function Home() {
             {[BiLogoGmail, IoLogoLinkedin, IoLogoTwitter, BsGithub].map((Icon, index) => (
               <motion.a
                 key={index}
-                href="#"
+                href="maherhassnain70@gmail.com"
                 className="bg-white p-2 lg:p-3 rounded border-2 border-black"
                 whileHover={{ scale: 1.1, backgroundColor: "#000", color: "#fff" }}
                 whileTap={{ scale: 0.9 }}

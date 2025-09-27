@@ -5,16 +5,16 @@ import { motion } from 'framer-motion';
 const projects = [
   {
     id: 1,
-    title: "Crypto Screener Application",
-    description: "A powerful tool for tracking and analyzing cryptocurrency trends in real-time.",
+    title: "2024 Gpu Price Analysis And Dashbaord",
+    description: "A powerful tool for tracking and analyzing Gpu price For Gamers , Ai Enginniers  in real-time.",
     image: "/assets/project1.png",
-    link: "#"
+    link: "https://aag2024.streamlit.app/"
   },
   {
     id: 2,
-    title: "Stock Market Dashboard",
-    description: "An interactive dashboard to monitor stock prices and market trends efficiently.",
-    image: "/assets/project1.png",
+    title: "Pending Project",
+    description: "Covid 19 Data Analysis ,Reports And Visualization.",
+    image: "/assets/pending.png",
     link: "#"
   }
 ];
